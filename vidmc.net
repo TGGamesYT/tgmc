@@ -1,5 +1,8 @@
 {
   "motd": "A Minecraft Server",
   "maxplayers": 20,
-  "icon": ""
+  "icon": "",
+  "flashz.tgmc.dev": [
+     "copy": "flashz.apexmc.co"
+  ]
 }
