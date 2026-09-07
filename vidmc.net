@@ -2,10 +2,10 @@
   "motd": "A Minecraft Server",
   "maxplayers": 20,
   "icon": "",
-  "flashz.tgmc.dev": [
+  "flashz.tgmc.dev": {
      "copy": "flashz.apexmc.co"
-  ],
-  "hypixel.tgmc.dev": [
+  },
+  "hypixel.tgmc.dev": {
      "copy": "play.hypixel.net"
-  ]
+  }
 }
