@@ -4,5 +4,8 @@
   "icon": "",
   "flashz.tgmc.dev": [
      "copy": "flashz.apexmc.co"
+  ],
+  "hypixel.tgmc.dev": [
+     "copy": "play.hypixel.net"
   ]
 }
