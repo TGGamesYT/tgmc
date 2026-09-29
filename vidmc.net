@@ -9,7 +9,7 @@
      "copy": "mc.hypixel.net"
   },
   "fingees.tgmc.dev": {
-     "motd": "&bServer for &e&lFingees",
+     "motd": "\u00A7bServer for \u00A7e\u00A7lFingees",
      "icon": "https://tggamesyt.dev/assets/fingees-icon.png",
      "maxplayers": 20
   }
