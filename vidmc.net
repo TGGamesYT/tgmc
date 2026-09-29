@@ -7,5 +7,10 @@
   },
   "hypixel.tgmc.dev": {
      "copy": "mc.hypixel.net"
+  },
+  "fingees.tgmc.dev": {
+     "motd": "&bServer for &e&lFingees",
+     "icon": "https://tggamesyt.dev/assets/fingees-icon.png",
+     "maxplayers": 20
   }
 }
